@@ -1,7 +1,13 @@
+/data/data/com.termux/files/home/Alphabot/session.json                                                              327/327               100%
+
 {
-"clientID": "09fHSLy/cgOVd8rIGHuxHQ==",
-"serverToken": "1@JixbzCwffqRrGKOwDbYg4Dj67X2TbO2CtKChZrixujTcHXW+g+lj5+QmvVRa0TZKW0CKdb79ImhyLg==",
-"clientToken": "4fx9Wwuv4a2E4yg7ZWDYqqirRzHaMjmatt2IseNnQxg=",
-"encKey": "UDI7G4dakk1/88/u1ewaAtxDue+ujUVvCowtEeebvDI=",
-"macKey": "L4ykgzc7ZQRB4Mhe0tjJPwalj/MjQUpEzINn98ZUdXk="
-}
+
+        "clientID": "Bav4/VLiAVos3U7quRKcJw==",
+
+        "serverToken": "1@ZTSR/KKSRFxTgTWGA7wF3AUCxetG9kvcjV1PuEnPvbGl8nYRayY9p7YFEv61sjIVyKHDoVq/4kYlNw==",
+
+        "clientToken": "jJzchw/0bDNNZ7XsqHFVFmd3upv6JK6Ic9f/1N1hYqU=",
+
+        "encKey": "fZFBzdlgGq2JAZYV2O4mvyxIYfSPpYWvQGj4pQseEA0=",
+
+        "macKey": "1tB//hE0fUbcdqU5QBSly+pcXlkWbUQWTXym22n/vuU="
